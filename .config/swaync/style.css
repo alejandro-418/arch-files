@@ -1,0 +1,23 @@
+.window.notification,
+.background,
+.notification-row,
+.notification-row box,
+.notification-background,
+.vertical.notification-background {
+    background: none;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+}
+
+.notification {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.notification:hover,
+.notification:focus {
+    border: none;
+}

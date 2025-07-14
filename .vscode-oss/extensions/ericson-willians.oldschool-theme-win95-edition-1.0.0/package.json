@@ -1,0 +1,109 @@
+{
+	"name": "oldschool-theme-win95-edition",
+	"publisher": "ericson-willians",
+	"displayName": "Oldschool Theme: Windows 95 Edition",
+	"description": "An actually usable theme for those who suffer from severe nostalgia, inspired by Win95, QBasic and MS-DOS in general.",
+	"repository": "https://github.com/EricsonWillians/oldschool-theme",
+	"license": "GNU",
+	"version": "1.0.0",
+	"keywords": [
+		"windows 95",
+		"oldschool",
+		"qbasic",
+		"win95",
+		"ms-dos",
+		"msdos",
+		"90s",
+		"nostalgic",
+		"old",
+		"borland",
+		"monokai",
+		"high-contrast"
+	],
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Windows 95 (Very nostalgic theme)",
+				"uiTheme": "hc-black",
+				"path": "./themes/windows-95-very-nostalgic-theme.json"
+			},
+			{
+				"label": "Windows 95 (Somewhat nostalgic theme)",
+				"uiTheme": "hc-black",
+				"path": "./themes/windows-95-somewhat-nostalgic-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Darker QBasic) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-darker-qbasic-color-theme.json"
+			},
+			{
+				"label": "Oldschool Terminal Theme (Green)",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-terminal-green.json"
+			},
+			{
+				"label": "Oldschool Theme (Qbasic Light)",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-qbasic-light.json"
+			},
+			{
+				"label": "Oldschool Theme (QBasic) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-qbasic-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Doom)",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-doom-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Olive) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-olive-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Gray) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-gray-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Purple) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-purple-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Maroon) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-maroon-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Evil) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-evil-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Teal) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-teal-color-theme.json"
+			},
+			{
+				"label": "Oldschool Theme (Green) - Monokai",
+				"uiTheme": "hc-black",
+				"path": "./themes/oldschool-green-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1749591913129,
+		"targetPlatform": "undefined",
+		"size": 756199
+	}
+}
