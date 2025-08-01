@@ -16,8 +16,6 @@ alias ff='fastfetch'
 alias sd='systemctl poweroff'
 
 
-
-
 # --- Package update once a day ---
 UPDATE_STAMP="$HOME/.last_update_check"
 TODAY=$(date +%Y-%m-%d)
