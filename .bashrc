@@ -25,3 +25,6 @@ if [ ! -f "$UPDATE_STAMP" ] || [ "$(cat "$UPDATE_STAMP")" != "$TODAY" ]; then
 	sudo pacman -Syu && paru -Syu
 	echo "$TODAY" > "$UPDATE_STAMP"
 fi
+
+# Created by `pipx` on 2025-08-18 19:43:17
+export PATH="$PATH:/home/a/.local/bin"
